@@ -3945,7 +3945,247 @@ faq_dataset = [
         "question": "Do you provide website performance optimization during deployment?",
         "answer": "Yes, we optimize website performance during deployment by compressing images, minifying code, and configuring caching systems."
     },
-    
+      # Questions related to Training and Documentation
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide training for your software solutions?",
+        "answer": "Yes, we offer comprehensive training sessions to ensure your team understands how to use the software effectively."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "What types of training do you offer?",
+        "answer": "We provide on-site training, virtual workshops, video tutorials, and documentation to suit different learning preferences."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Is the training customized to our needs?",
+        "answer": "Yes, our training sessions are tailored to meet the specific needs and workflows of your team and business."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer post-launch training for new features?",
+        "answer": "Yes, we provide ongoing training sessions whenever new features or updates are added to your software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Will you provide documentation for the software?",
+        "answer": "Yes, we provide detailed user manuals, installation guides, API documentation, and troubleshooting guides."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "What documentation do you provide after a project is completed?",
+        "answer": "We provide user guides, technical documentation, setup instructions, and best practices for maintaining the software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you provide training for non-technical users?",
+        "answer": "Yes, we offer training that caters to both technical and non-technical users to ensure everyone can use the software effectively."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer online tutorials or video guides?",
+        "answer": "Yes, we offer both written tutorials and video guides for easy reference and self-paced learning."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "How long do the training sessions last?",
+        "answer": "The length of the training sessions depends on the complexity of the software but typically lasts from a few hours to a couple of days."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can we get training materials in different formats?",
+        "answer": "Yes, we provide training materials in various formats such as PDFs, videos, slide decks, and interactive e-learning modules."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Is training available remotely?",
+        "answer": "Yes, we offer virtual training sessions via video conferencing tools to ensure that your team can receive training from anywhere."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you provide a train-the-trainer approach?",
+        "answer": "Yes, we can train your internal team to become trainers, so they can pass on their knowledge to others within the organization."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer any certification for completed training?",
+        "answer": "Yes, we can provide certification for team members who complete our training programs, signifying their competence with the software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide API documentation for developers?",
+        "answer": "Yes, we offer detailed API documentation for developers to integrate our software with other systems and services."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "How often is the training content updated?",
+        "answer": "We update our training content whenever there are significant software updates or new features to ensure relevance."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you provide documentation in multiple languages?",
+        "answer": "Yes, we can provide training materials and documentation in multiple languages to support global teams."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer training for system administrators?",
+        "answer": "Yes, we offer specialized training for system administrators on software installation, maintenance, and troubleshooting."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Is there any training provided for troubleshooting issues?",
+        "answer": "Yes, we provide troubleshooting guides and training to help your team resolve common issues independently."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you help with documentation for internal teams?",
+        "answer": "Yes, we can assist with creating internal documentation that explains processes, workflows, and usage guidelines for your team."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide knowledge transfer during the project handover?",
+        "answer": "Yes, we ensure a smooth handover by providing detailed knowledge transfer to your team to ensure they can maintain and operate the system."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can we access documentation after the project is completed?",
+        "answer": "Yes, all the documentation will be provided to you and can be accessed at any time for future reference."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you create custom user manuals?",
+        "answer": "Yes, we can create custom user manuals based on your business processes and the specific features of your software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer in-person training sessions?",
+        "answer": "Yes, we offer in-person training sessions depending on your location and requirements."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you help with training for software updates?",
+        "answer": "Yes, we provide training sessions for new updates to ensure your team is familiar with the changes."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Is documentation available for troubleshooting and FAQs?",
+        "answer": "Yes, we provide troubleshooting guides and FAQs in the documentation to help your team resolve issues quickly."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer any ongoing support after the training?",
+        "answer": "Yes, we offer ongoing support after training to address any questions or issues that may arise."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you provide video training in addition to documentation?",
+        "answer": "Yes, we offer video training alongside written documentation for those who prefer visual learning."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide training for software integrations?",
+        "answer": "Yes, we provide training on how to integrate the software with other systems and platforms."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Is documentation user-friendly for non-technical staff?",
+        "answer": "Yes, we create documentation that is easy to understand and follow, even for non-technical users."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you offer training for specific software modules?",
+        "answer": "Yes, we can offer training for specific modules or features of the software, tailored to your team's needs."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can training be customized for different roles in my team?",
+        "answer": "Yes, we can customize the training program to meet the needs of different roles, such as developers, administrators, and end-users."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "How do you handle documentation for compliance requirements?",
+        "answer": "We ensure that all documentation meets regulatory and compliance standards to help you stay compliant with industry regulations."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer hands-on training or just theoretical lessons?",
+        "answer": "We offer both hands-on and theoretical training, providing practical experience along with conceptual knowledge."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you create an internal knowledge base for my team?",
+        "answer": "Yes, we can create a comprehensive internal knowledge base for your team to access as needed."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide training on software scalability and performance optimization?",
+        "answer": "Yes, we provide training on how to optimize the performance of the software and scale it as your business grows."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you help with onboarding new employees with your software?",
+        "answer": "Yes, we can provide onboarding training for new employees to help them get up to speed with the software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer training on software maintenance and upgrades?",
+        "answer": "Yes, we provide training on maintaining the software and applying updates to keep everything running smoothly."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you have a feedback mechanism to improve training?",
+        "answer": "Yes, we gather feedback after each training session to improve our programs and make sure they meet your needs."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "How do you handle user access control in your documentation?",
+        "answer": "We ensure that documentation is accessible based on user roles and permissions to maintain confidentiality and security."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "What kind of post-training support do you offer?",
+        "answer": "We offer post-training support in the form of Q&A sessions, follow-up emails, and troubleshooting assistance."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer training in agile or project management methodologies?",
+        "answer": "Yes, we offer training on agile methodologies, project management frameworks, and software development best practices."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you create a personalized training schedule for our team?",
+        "answer": "Yes, we can create a personalized training schedule that aligns with your team's availability and priorities."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer training on troubleshooting issues post-deployment?",
+        "answer": "Yes, we provide training on identifying and troubleshooting common issues that may arise after deployment."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "What types of user roles can be trained?",
+        "answer": "We can train various user roles, including administrators, developers, testers, and end-users."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you provide training for managing user permissions in the software?",
+        "answer": "Yes, we provide training on how to manage user permissions and roles within the software."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you provide advanced training for power users?",
+        "answer": "Yes, we offer advanced training sessions for power users to explore advanced features and functionalities."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Can you help with creating custom reports using the software?",
+        "answer": "Yes, we can provide training on how to generate custom reports tailored to your business needs."
+    },
+    {
+        "category": "Training and Documentation",
+        "question": "Do you offer documentation for different versions of the software?",
+        "answer": "Yes, we provide documentation for each version of the software, so you can refer to the relevant guide for your version."
+    }
 
 ]
 # Print the size of the dataset
